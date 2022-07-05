@@ -1,4 +1,4 @@
-#Class-Project-Hotspot-Analysis
+# Class-Project-Hotspot-Analysis
 
 ### Hot zone analysis
 This task will needs to perform a range join operation on a rectangle datasets and a point dataset. For each rectangle, the number of points located within the rectangle will be obtained. The hotter rectangle means that it include more points. So this task is to calculate the hotness of all the rectangles. 
